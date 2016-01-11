@@ -1,0 +1,15 @@
+set nowrap
+include ~/../Shared/nano_syntax/c.nanorc
+include ~/../Shared/nano_syntax/csharp.nanorc
+include ~/../Shared/nano_syntax/css.nanorc
+include ~/../Shared/nano_syntax/html.nanorc
+include ~/../Shared/nano_syntax/go.nanorc
+include ~/../Shared/nano_syntax/ini.nanorc
+include ~/../Shared/nano_syntax/java.nanorc
+include ~/../Shared/nano_syntax/json.nanorc
+include ~/../Shared/nano_syntax/lua.nanorc
+include ~/../Shared/nano_syntax/makefile.nanorc
+include ~/../Shared/nano_syntax/markdown.nanorc
+include ~/../Shared/nano_syntax/php.nanorc
+include ~/../Shared/nano_syntax/python.nanorc
+include ~/../Shared/nano_syntax/xml.nanorc
